@@ -1,0 +1,13 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "http-server": "^0.11.2"
+  }
+}
